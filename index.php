@@ -1,3 +1,3 @@
 <?php
-include('animales.html');
+include('template/animales.php');
 ?>
