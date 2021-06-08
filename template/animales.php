@@ -109,12 +109,12 @@
                         </p>
                         <div class="social-row display-7">
                             <div class="soc-item">
-                                <a href="#" target="_blank">
+                                <a href="template/perfil_animal.php" target="_blank">
                                     <span class="mbr-iconfont mobi-mbri-preview mobi-mbri"><i class="icofont-eye"></i></i></span>
                                 </a>
                             </div>
                             <div class="soc-item">
-                                <a href="#" target="_blank">
+                                <a href="template/act_registro_animal.php" target="_blank">
                                     <span class="mbr-iconfont mobi-mbri-contact-form mobi-mbri"><i class="icofont-notebook"></i></span>
                                 </a>
                             </div>

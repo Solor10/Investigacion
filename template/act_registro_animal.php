@@ -15,7 +15,15 @@ include('master_page/master_cabezera.html');
                 <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>Bovinos Registrados</strong> </i> </h3>
                 
             </div>
-            
+            <div class="col-sm-3 col-lg-2">
+                <div class="card-wrap">
+                    <div class="image-wrap">
+                        <img src="../assets/images/team1.jpg">
+                        <input  type="file" id="formFile">
+                    </div>
+                    
+                </div>
+            </div>
 
         </div>
     </div>
@@ -37,10 +45,6 @@ include('master_page/master_cabezera.html');
                 <div class="col-mb-1">
                     <label  class="visually-hidden" style="color:cornsilk;">Nacimiento: <i class="icofont-star-alt-2" style="color:brown;"></i></i></label>
                     <input type="date" class="form-control" id="inputPassword2" >
-                </div>
-                <div class="col-mb-2">
-                    <label  class="visually-hidden" style="color:cornsilk;">Imagen: <i class="icofont-star-alt-2" style="color:brown;"></i></i></label>
-                    <input  type="file" id="formFile">
                 </div>
                 <div class="col-mb-1">
                     <label  class="visually-hidden" style="color:cornsilk;">Altura: <i class="icofont-star-alt-2" style="color:brown;"></i></i></label>
@@ -72,8 +76,6 @@ include('master_page/master_cabezera.html');
                     <label  class="visually-hidden" style="color:cornsilk;">Descripción: <i class="icofont-star-alt-2" style="color:brown;"></i></i></label>
                     <input type="description" class="form-control" id="inputPassword2">
                 </div>
-                <br>
-               
                 
                 
         </div>

@@ -7,14 +7,19 @@ include('master_page/master_cabezera.html');
 
     
 
-    
+<a href="../template/nvo_registro_admin.php" class="btn btn-black">Nuevo administrador</a>
 
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-12">
                 <div class="image-wrapper">
                     <img class="w-100" src="../assets/images/features6.jpg" alt="Mobirise">
-                    
+                    <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+                        
+                    <a href="../template/act_registro_admin.php" class="btn btn-danger">Actualizar</a>
+                        <input type="button" class="btn btn-danger" value="Eliminar">
+
+                    </div>
                 </div>
                 
                 
